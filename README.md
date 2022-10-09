@@ -46,7 +46,7 @@ yarn add Flunt
 ```
 
 ## 🔨 Usage
+https://jinsdw.github.io/Fl/
 
-...
 ## update
 Continuously updating...
