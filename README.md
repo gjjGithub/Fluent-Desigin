@@ -47,7 +47,7 @@ yarn add Flunt
 
 
 ## 🔨 Usage
-https://jinsdw.github.io/Fl/
+https://jinsdw.github.io/Fl-Design/
 
 ## update
 Continuously updating...
