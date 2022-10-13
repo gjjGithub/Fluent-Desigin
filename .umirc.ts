@@ -1,10 +1,10 @@
 import { defineConfig } from 'dumi';
 // import style from './docs/siteIndexStyle';
 
-const repo = 'Fl-Design'; // 项目名(也就是你的仓库名)
+const repo = 'Fluent-desigin'; // 项目名(也就是你的仓库名)
 
 export default defineConfig({
-  title: 'FL Design', // 你的组件库名字
+  title: 'Fluent-desigin', // 你的组件库名字
   // 你的网站 tabs 图片
   favicon: 'https://found-img-blog.oss-cn-hangzhou.aliyuncs.com/img/logo.png',
   // 你的官网logo
@@ -33,14 +33,13 @@ export default defineConfig({
       children: [
         {
           title: 'CSDN',
-          path: 'https://blog.csdn.net/Jinsder?type=blog',
+          path: 'https://blog.csdn.net/nian7_?type=blog',
         },
-       
       ],
     },
     {
       title: 'GitHub',
-      path: 'https://github.com/Jinsdw',
+      path: 'https://github.com/gjjGithub',
     },
   ],
   // styles: [style],
