@@ -45,7 +45,7 @@ yarn add Flunt
 
 ## 🔨 Usage
 
-https://jinsdw.github.io/Fl-Design/
+https://gjjGithub/Fluent-Desigin
 
 ## update
 
